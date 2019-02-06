@@ -1,7 +1,7 @@
 Artikel Project Laravel
 
 
-Pada Tugas saya kali ini saya menggunakan PHP dalam pelaksanaanya dan juga menggunakan Laravel, yang merupakan suatu framework dalam membangun suatu aplikasi berbasis website. Laravel sendiri di pilih diantaranya karena pengembang dapat 
+Pada Tugas ini saya menggunakan PHP dalam pelaksanaanya dan juga menggunakan Laravel, yang merupakan suatu framework dalam membangun suatu aplikasi berbasis website. Laravel sendiri di pilih diantaranya karena pengembang dapat 
 menghemat biaya sebaik mungkin, selain itu perawatan dari aplikasi berbasis laravel 
 ini bisa dikatakan mudah dalam perawaran nya serta menyediakan pengalaman kerja dengan
 syntax yang ekspresif dan jelas sehingga dapat menghemat waktu developer dalam 
